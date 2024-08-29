@@ -20,8 +20,4 @@ int main()
     {
         c[i] = toupper(c[i]);
     }
-    cout << a;
-    cout << b;
-    cout << c;
-    return 0;
 }
